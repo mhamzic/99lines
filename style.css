@@ -1,0 +1,16 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: lightgrey;
+}
+
+h1 {
+  color: #fff;
+  padding-bottom: 6px;
+  border-bottom: whitesmoke solid 0.5px;
+}
+
+.friend {
+  color: gray;
+  background: whitesmoke;
+  padding: 1rem;
+}
